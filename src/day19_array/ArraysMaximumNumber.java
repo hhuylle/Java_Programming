@@ -1,6 +1,6 @@
 package day19_array;
 
-public class ArraysMaximumNumber {
+public class    ArraysMaximumNumber {
 
 
     public static void main(String[] args) {

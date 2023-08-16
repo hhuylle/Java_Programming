@@ -1,9 +1,5 @@
 package day30_inheritance.practiceTasks.deviceTask;
 
-import day30_inheritance.phoneTask.Samsung;
-
-import java.awt.*;
-
 public class Device {
     /*
     1. Create a class named Device

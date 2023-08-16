@@ -1,8 +1,6 @@
 package day23_arrayList.practiceTasks;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
 
 public class ExtractAllCharacters {
     /*

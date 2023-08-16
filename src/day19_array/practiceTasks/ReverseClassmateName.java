@@ -1,7 +1,5 @@
 package day19_array.practiceTasks;
 
-import java.util.Arrays;
-
 public class ReverseClassmateName {
     /*
     create string array, and store the names of your  class mate (10)

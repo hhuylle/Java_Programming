@@ -1,7 +1,5 @@
 package day25_constructor.practiceTasks;
 
-import java.util.concurrent.Callable;
-
 public class Carpet {
     /*
     Task03:

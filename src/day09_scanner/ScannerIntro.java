@@ -1,6 +1,5 @@
 package day09_scanner;
 
-import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 
 public class ScannerIntro {

@@ -1,7 +1,5 @@
 package day07_ifStatements.day07_tasks;
 
-import java.sql.SQLOutput;
-
 public class FINRA {
 
     public static void main(String[] args) {

@@ -2,8 +2,6 @@ package day22_arrayList;
 
 import Utilities.ArraysUtility;
 
-import java.util.Arrays;
-
 public class Test {
 
     public static void main(String[] args) {

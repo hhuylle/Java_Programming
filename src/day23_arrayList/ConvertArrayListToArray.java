@@ -2,7 +2,6 @@ package day23_arrayList;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 
 public class ConvertArrayListToArray {
 

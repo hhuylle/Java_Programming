@@ -1,7 +1,7 @@
 package Utilities;
 
 import day27_accessModifiers.AccessModifier;
-import day27_accessModifiers.Data;// to use for both instance members/methods and static members/methods
+import day27_accessModifiers.Data;
 
 public class Test {
 

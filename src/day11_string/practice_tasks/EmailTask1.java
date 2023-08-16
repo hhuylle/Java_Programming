@@ -1,7 +1,5 @@
 package day11_string.practice_tasks;
 
-import java.util.Scanner;
-
 public class EmailTask1 {
     public static void main(String[] args) {
 

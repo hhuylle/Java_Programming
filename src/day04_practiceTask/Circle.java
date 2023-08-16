@@ -1,7 +1,5 @@
 package day04_practiceTask;
 
-import java.io.PrintStream;
-
 public class Circle {
 
     public static void main(String[] args) {

@@ -1,7 +1,5 @@
 package day13_customMethods;
 
-import java.util.Scanner;
-
 public class WarmupTask {
 
     public static void main(String[] args) {

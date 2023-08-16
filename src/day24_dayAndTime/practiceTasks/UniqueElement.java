@@ -2,7 +2,6 @@ package day24_dayAndTime.practiceTasks;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 
 public class UniqueElement {
     /*

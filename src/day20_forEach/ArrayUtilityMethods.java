@@ -1,7 +1,5 @@
 package day20_forEach;
 
-import Utilities.ArraysUtility;
-
 import java.util.Arrays;
 
 public class ArrayUtilityMethods {

@@ -1,7 +1,5 @@
 package day08_ternaries_switch;
 
-import java.io.FilterOutputStream;
-
 public class SwitchStatementIntro2 {
 
     public static void main(String[] args) {

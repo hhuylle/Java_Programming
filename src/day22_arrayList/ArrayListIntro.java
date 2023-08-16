@@ -1,7 +1,5 @@
 package day22_arrayList;
 
-import Utilities.ArraysUtility;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 

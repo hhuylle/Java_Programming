@@ -1,6 +1,5 @@
 package day22_arrayList.practiceTasks;
 
-import java.sql.Array;
 import java.util.ArrayList;
 
 

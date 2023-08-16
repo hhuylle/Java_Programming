@@ -1,6 +1,5 @@
 package day38_exceptionsContinue_throws_throw_keyword;
 
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 
 public class ThrowsKeyword {

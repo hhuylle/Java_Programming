@@ -1,7 +1,5 @@
 package day20_forEach.practiceTasks;
 
-import java.util.Arrays;
-
 public class EvenAndOdd {
     /*
     Write a program that can count the even and odd number from an array of integers

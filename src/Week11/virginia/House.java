@@ -1,7 +1,5 @@
 package Week11.virginia;
 
-import java.util.Arrays;
-
 public class House {
 
     // main class

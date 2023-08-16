@@ -1,7 +1,6 @@
 package day22_arrayList.practiceTasks;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class CombineTwoStrings {
     /*

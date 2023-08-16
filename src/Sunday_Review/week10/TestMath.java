@@ -1,7 +1,6 @@
 package Sunday_Review.week10;
 
-import static java.lang.Math.*; // import everything that is static
-import static java.lang.Math.PI;
+import static java.lang.Math.*;
 
 public class TestMath {
 

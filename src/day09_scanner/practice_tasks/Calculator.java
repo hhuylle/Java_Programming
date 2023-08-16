@@ -1,7 +1,6 @@
 package day09_scanner.practice_tasks;
 
 import java.util.Scanner;
-import java.util.stream.IntStream;
 
 public class Calculator {
 

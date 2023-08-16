@@ -1,7 +1,5 @@
 package day21_multiDimentionalArray;
 
-import java.util.Arrays;
-
 public class MultiDimensionalArrayPractice3 {
 
     public static void main(String[] args) {

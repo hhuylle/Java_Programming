@@ -1,7 +1,5 @@
 package day19_array.practiceTasks;
 
-import java.util.Arrays;
-
 public class Grade {
     /*
     given the following arrays:

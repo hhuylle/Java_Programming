@@ -1,7 +1,5 @@
 package day37_exceptions;
 
-import java.io.FileInputStream;
-
 public class ExceptionsPractice {
 
     public static void main(String[] args) {

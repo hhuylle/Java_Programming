@@ -1,7 +1,5 @@
 package day16_nestedLoop.practiceTasks;
 
-import java.util.Scanner;
-
 public class FrequencyOfChars {
     /*
     Write a program that can find the frequency of the characters from a string

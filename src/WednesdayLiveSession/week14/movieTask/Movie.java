@@ -1,7 +1,5 @@
 package WednesdayLiveSession.week14.movieTask;
 
-import java.time.LocalTime;
-
 public final class Movie {
 
     String title;

@@ -1,8 +1,5 @@
 package day19_array.practiceTasks;
 
-import java.lang.reflect.Array;
-import java.util.Arrays;
-
 public class Classmates {
     /*
     create an array named classmates, and store 10 of your classmates' full names

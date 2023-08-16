@@ -1,7 +1,9 @@
 package day36_polymorphism_referenceTypeCastings;
 
 
-import day30_inheritance.phoneTask.*;
+import day30_inheritance.phoneTask.Nokia;
+import day30_inheritance.phoneTask.Phone;
+import day30_inheritance.phoneTask.Samsung;
 
 public class PolymorphisimPractice {
 

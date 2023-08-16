@@ -1,7 +1,5 @@
 package day34_abstraction_interface.carTask;
 
-import day33_abstraction.employeeTask.Tester;
-
 public class TestCarObjects {
 
     public static void main(String[] args) {

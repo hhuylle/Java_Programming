@@ -1,8 +1,5 @@
 package day23_arrayList.practiceTasks;
 
-import day22_arrayList.ArrayListIntro;
-
-import java.io.FilterOutputStream;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;

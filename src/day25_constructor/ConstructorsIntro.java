@@ -1,8 +1,5 @@
 package day25_constructor;
 
-import java.lang.reflect.Array;
-import java.util.Arrays;
-
 public class ConstructorsIntro {
 
     public ConstructorsIntro(){

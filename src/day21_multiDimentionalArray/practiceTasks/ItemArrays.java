@@ -1,9 +1,5 @@
 package day21_multiDimentionalArray.practiceTasks;
 
-import Utilities.ArraysUtility;
-
-import java.util.Arrays;
-
 public class ItemArrays {
     /*
     Given the Array:

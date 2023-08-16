@@ -19,7 +19,7 @@ public class FrequencyOfCharacters {
 
         for (int j = 0; j < str.length(); j++) {
 
-            char ch = str.charAt(j); //
+            char ch = str.charAt(j); //a
             int count = 0;
             for (int i = 0; i < str.length(); i++) {
                 if (str.charAt(i)==ch){

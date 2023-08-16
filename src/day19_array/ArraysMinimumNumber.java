@@ -1,7 +1,5 @@
 package day19_array;
 
-import java.util.Arrays;
-
 public class ArraysMinimumNumber {
 
     public static void main(String[] args) {

@@ -1,7 +1,5 @@
 package day20_forEach.practiceTasks;
 
-import java.util.Arrays;
-
 public class TwoCommonElements {
     /*
     Write a program that can print out the common elements from two integer array

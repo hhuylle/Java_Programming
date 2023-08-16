@@ -1,7 +1,5 @@
 package day21_multiDimentionalArray;
 
-import java.util.Arrays;
-
 public class RemoveExtraSpace {
     /*
     Write a program that can remove all the extra space from string

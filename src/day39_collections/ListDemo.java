@@ -1,6 +1,9 @@
 package day39_collections;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.Stack;
+import java.util.Vector;
 
 public class ListDemo {
 

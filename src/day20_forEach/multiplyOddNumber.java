@@ -1,6 +1,5 @@
 package day20_forEach;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class multiplyOddNumber {

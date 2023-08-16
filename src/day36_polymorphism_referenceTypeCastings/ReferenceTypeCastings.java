@@ -1,9 +1,7 @@
 package day36_polymorphism_referenceTypeCastings;
 
 import day29_inheritance.animalTask.Animal;
-import day29_inheritance.animalTask.Cat;
 import day29_inheritance.animalTask.Dog;
-import day30_inheritance.phoneTask.IPhone;
 import day30_inheritance.phoneTask.Nokia;
 import day30_inheritance.phoneTask.Phone;
 import day33_abstraction.employeeTask.*;

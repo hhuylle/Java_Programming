@@ -1,7 +1,6 @@
 package day15_whileLoop.practiceTasks;
 
 import java.util.Scanner;
-import java.util.SortedMap;
 
 public class FrequencyOfChar {
     /*

@@ -1,7 +1,5 @@
 package day09_scanner.practice_tasks;
 
-import org.w3c.dom.ls.LSOutput;
-
 import java.util.Scanner;
 
 public class Circle {

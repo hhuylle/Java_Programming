@@ -1,7 +1,5 @@
 package WednesdayLiveSession.week15;
 
-import Sunday_Review.week14.bankTask.NotEnoughMoneyException;
-
 public class Library {
 
     public static void getLibraryCard(String city){

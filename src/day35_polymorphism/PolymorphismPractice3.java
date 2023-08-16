@@ -2,8 +2,6 @@ package day35_polymorphism;
 
 import day33_abstraction.employeeTask.*;
 
-import java.util.ArrayList;
-
 public class PolymorphismPractice3 {
 
     public static void main(String[] args) {

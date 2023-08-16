@@ -1,7 +1,5 @@
 package day29_inheritance.practiceTasks;
 
-import java.util.ArrayList;
-
 public class Developer {
     /*
     Create a custom Class named Developer

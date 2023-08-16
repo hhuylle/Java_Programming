@@ -1,6 +1,5 @@
 package WednesdayLiveSession.week10;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;

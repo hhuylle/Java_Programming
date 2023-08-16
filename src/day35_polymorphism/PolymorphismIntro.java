@@ -4,11 +4,9 @@ import day31_inheritance.shape_methodOverriding.Circle;
 import day33_abstraction.employeeTask.*;
 import day34_abstraction_interface.animalTask.*;
 import day34_abstraction_interface.carTask.Audi;
-import day34_abstraction_interface.carTask.Car;
 import day34_abstraction_interface.carTask.Honda;
 import day34_abstraction_interface.carTask.Tesla;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class PolymorphismIntro {
