@@ -1,0 +1,26 @@
+Review:
+1.SDLC --> steps to build/develop app, global
+
+2.STLC --> steps to testing the app, global standard
+STLC is
+
+test scope: testing type1
+
+Project manager writes Test Strategy
+
+Depends on styles, clients that is is often written TStrdoc
+
+requirement is functions
+
+--------------------------------
+Test Plan:
+
+Entry criteria == how we can say that we are ready to start testing
+
+    1.The requirement is delivered not the QA team
+    2.TStrdoc is ready
+    3.TPlandoc is ready
+    4.All the software & hardware resources are ready
+
+Exit criteria == how we can say that
+
